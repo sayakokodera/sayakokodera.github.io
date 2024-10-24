@@ -40,24 +40,24 @@ plugins:
 ######################################
 page-col: "#FFFFFF"
 text-col: '#2D2B27' #"#404040"
-link-col: "#008AFF"
+link-col: "#008AFF" #= teal
 hover-col: "#0085A1"
-#navbar-col: "#EAEAEA" # = pale gray
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+#navbar-col: "#EAEAEA" #= pale gray
+navbar-text-col: "#404040" # = charcoal
+navbar-border-col: "#DDDDDD" # = pale gray, little darker than EAEAEA
 footer-col: "#EAEAEA" # = pale gray
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-text-col: "#777777" # = dark gray
+footer-link-col: "#404040" # = charcoal
+footer-hover-col: "#0085A1" #= teal
 
-# link-col: "#008AFF" = teal 
-# hover-col: "#FFFFFF"
-navbar-col: '#FAEBD7'
-# navbar-text-col: '#2D2B27' #"#404040"
-# navbar-border-col: '#2D2B27'#"#DDDDDD"
-# footer-col: "#E3D8C4' #"#EAEAEA"
+# link-col:  
+# hover-col: 
+navbar-col: "#FAEBD7" # = beige
+# navbar-text-col: '#2D2B27'
+# navbar-border-col: '#2D2B27'
+# footer-col: "#E3D8C4'
 # footer-text-col: "#777777"
-# footer-link-col: '#2D2B27' #"#404040"
+# footer-link-col: '#2D2B27' 
 # footer-hover-col: "#0085A1"
 
 
@@ -78,7 +78,7 @@ date_format: "%B %-d, %Y"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: sayako.kodera@izfp.fraunhofer.de
-  github: sayakokodera
+  # github: sayakokodera
 #  ORCID: your ORCID ID
   google-scholar: Sayako Kodera
 
