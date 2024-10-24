@@ -44,25 +44,25 @@ plugins:
 # page-col: "#FFFFFF"
 text-col: "#404040" # = charcoal
 link-col: "#008AFF" # = teal
-hover-col: "#0085A1" # = teal
+#hover-col: "#0085A1" # = teal
 #navbar-col: "#EAEAEA" #= pale gray
 navbar-text-col: "#404040" # = charcoal
 navbar-border-col: "#DDDDDD" # = pale gray, little darker than EAEAEA
 # footer-col: "#EAEAEA" # = pale gray
 footer-text-col: "#777777" # = dark gray
 footer-link-col: "#404040" # = charcoal
-footer-hover-col: "#0085A1" #= teal
+#footer-hover-col: "#0085A1" #= teal
 
 page-col: "#FAF0E6" # = "linen" color
-# link-col:  
-# hover-col: 
-navbar-col: "#FAEBD7" # = beige
+# link-col: "#00008B" # = dark blue
+hover-col: "#00008B" # = dark blue
+navbar-col: "#FAF0E6" # = "linen" color
 # navbar-text-col: '#2D2B27'
 # navbar-border-col: '#2D2B27'
 footer-col: "#FAF0E6" # = "linen" color 
 # footer-text-col: "#777777"
 # footer-link-col: '#2D2B27' 
-# footer-hover-col: "#0085A1"
+footer-hover-col: "#00008B" # = dark blue
 
 
 ################
